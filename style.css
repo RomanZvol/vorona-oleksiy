@@ -1,0 +1,53 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+  background: #000000;
+background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(2, 216, 227, 1) 100%);
+padding:15px;
+color:white;
+  
+}
+
+/*Зроби цей сайт красивим 😉*/
+.logo{
+    width:250px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding:15px;
+}
+h1{
+    text-align: center;
+    background-color:#1d9ab3 ;
+}
+p{
+    background-color: #145edb;
+    padding: 10px;
+}
+.abot-game{
+    max-width:960px;
+    margin:0 auto;
+}
+.gallery img{
+     width:30%;
+     object-fit: cover;
+     display: flex;
+     justify-content: space-evenly;
+}
+ul{
+    background-color: #130ccf;
+}.gallery{
+display:flex;
+justify-content:space-between;
+padding:20px 30px;
+}
+.gallery img{
+flex:1;
+}
+h2{
+    text-align: center;
+    background-color:#1d9ab3 ;
+}
+
+/*Зроби цей сайт красивим 😉*/
